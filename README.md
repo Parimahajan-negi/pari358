@@ -1,3 +1,6 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 <h1 align="center">Hi 👋, I'm Parimahajan Negi</h1><img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 <h3 align="center">B.Tech CSE (AI/ML) Student | Aspiring AI/ML Engineer | Python & Java Developer | Blender Enthusiast</h3>
@@ -24,7 +27,7 @@
 
 <br>
 
-- 📫 How to reach me **pari1358111@gmail.com**
+
 
 <h3 align="left">🌐 Connect with me:</h3>
 
@@ -146,6 +149,7 @@
 
 ---
 
+
 ## 🧠 Core Skills
 
 - Python Programming
@@ -169,18 +173,9 @@ To become a skilled **AI/ML Engineer** capable of building intelligent systems, 
 
 ## 📈 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pari358&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pari358&theme=tokyonight" alt="streak" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pari358&layout=compact&theme=tokyonight" alt="languages" />
-</p>
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 ---
 
 ## 🚀 Currently Working On
